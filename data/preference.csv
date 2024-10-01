@@ -1,0 +1,49 @@
+Material,Form,Grade,Choice,Width (Min),Width (Max),Thickness (Min),Thickness (Max)
+Carbon Steel,Coils,S235JRH,,1200,1500,3,15
+Carbon Steel,Coils,S355MC,,1200,1500,3,15
+Carbon Steel,Coils,S355J2,,,,1,12
+Carbon Steel,Coils,S355JR,,,,1,12
+Carbon Steel,Coils,S355MC,,,,1,12
+Carbon Steel,Coils,S315MC,,,,1,12
+Carbon Steel,Coils,S235JR,,,,3,5
+Carbon Steel,Coils,S350GD,,,,1,1.2
+Carbon Steel,Slit Coils,S250GD,,,,0.12,0.5
+Carbon Steel,Coils,S235JR,,,,0.4,4
+Carbon Steel,Coils,S500MC,,,,1.5,7/3
+Carbon Steel,Coils,S355JR,,0,1500,1.5,10
+Carbon Steel,Coils,S700MC,,0,1500,1.5,10
+Carbon Steel,Coils,S460MC,,300,,1,10
+Carbon Steel,Coils,S500MC,,300,,1,10
+Carbon Steel,Coils,S235JR,,300,,1,10
+Carbon Steel,Coils,S250GD,,,,0.4,3
+Carbon Steel,Coils,S235JR,,,,3,15
+Carbon Steel,Coils,S275JR,,,,4,20
+Carbon Steel,Coils,S250GD,,,,0.55,0.65
+Carbon Steel,Slit Coils,S235JR,,28.5,200,4.5,4.5
+Carbon Steel,Coils,S420MC,,,,4,4
+Carbon Steel,Coils,S250GD,,1000,1500,2,5
+Carbon Steel,Slit Coils,S220GD,,,,0.1,0.3
+Carbon Steel,Coils,S250GD,,1250,1250,0.35,0.45
+Carbon Steel,Coils,S250GD,,1250,1250,0.5,2
+Carbon Steel,Coils,S250GD,,995,1495,0.25,1.8
+Carbon Steel,Coils,S280GD,,995,1495,0.25,1.8
+Carbon Steel,Coils,S320GD,,995,1495,0.25,1.8
+Carbon Steel,Coils,S250GD,,995,1495,0.25,1.8
+Carbon Steel,Coils,S280GD,,995,1495,0.25,1.8
+Carbon Steel,Coils,S320GD,,995,1495,0.25,1.8
+Carbon Steel,Coils,S355MC,,1250,1500,1.5,6
+Carbon Steel,Coils,S420MC,,1250,1500,1.5,6
+Carbon Steel,Coils,S235JR,,1250,1500,1.5,6
+Carbon Steel,Coils,S275JR,,1250,1500,1.5,6
+Carbon Steel,Coils,S355JR,,1250,1500,1.5,6
+Carbon Steel,Coils,S355MC,,1250,1500,0.4,3
+Carbon Steel,Coils,S420MC,,1250,1500,0.4,3
+Carbon Steel,Coils,S235JR,,1250,1500,0.4,3
+Carbon Steel,Coils,S275JR,,1250,1500,0.4,3
+Carbon Steel,Coils,S355JR,,1250,1500,0.4,3
+Carbon Steel,Coils,S235JR,,,,3,6
+Carbon Steel,Coils,S220GD,,,,0.4,0.5
+Carbon Steel,Slit Coils,S355JR,,,,2,3
+Carbon Steel,Slit Coils,S275JR,,,,2,3
+Carbon Steel,Coils,S235JR,,500,1500,1.8,4.8
+Carbon Steel,Coils,S235JR,,500,1500,1.8,4.8
